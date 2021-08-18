@@ -1,0 +1,17 @@
+https://www.nellobytesystems.com/APIAirtimeV1.asp?UserID=CK100277543&APIKey=3U1L4J84WWDXN02I59SUO6725C78ZGK614246RWN37AT5VQ0XA5X7889G92MCYFL&MobileNetwork=[network_code]&Amount=[amt]&MobileNumber=[phone]&RequestID=[ordernumber]&CallBackURL=https//:portal.seabuairtime.com
+
+https://www.nellobytesystems.com/APIServerIPV1.asp?UserID=CK100277543&APIKey=4P9HNJ2525J0H05R0540DYN6Z1O8GO0OTA57EX34QB8D8ZC1E487OTY309S08YKA
+
+{"your_server_ip","129.205.113.211"}
+
+
+https://www.nellobytesystems.com/APIDatabundleV1.asp?UserID=CK100277543&APIKey=4P9HNJ2525J0H05R0540DYN6Z1O8GO0OTA57EX34QB8D8ZC1E487OTY309S08YKA&MobileNetwork=mobilenetwork_code&DataPlan=dataplan_size
+
+&MobileNumber= recipient_mobilenumber&RequestID=request_id&CallBackURL=callback_url
+
+
+
+
+https://www.nellobytesystems.com/APIAirtimeV1.asp?UserID=CK100277543&APIKey=3U1L4J84WWDXN02I59SUO6725C78ZGK614246RWN37AT5VQ0XA5X7889G92MCYFL&MobileNetwork=02&Amount=[amt]&MobileNumber=[phone]&RequestID=[ordernumber]&CallBackURL=https//:portal.seabuairtime.com
+
+
